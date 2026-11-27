@@ -1,12 +1,12 @@
 {
   "plugin": "ds-core",
   "canale": "test",
-  "versione": "0.18.0",
-  "pacchetto": "pacchetti/ds-core-0.18.0.zip",
-  "dimensione": 211390,
-  "sha256": "f5861f0e9a9f5db2cbefcbf3d796066c6cb51e5c4c44544961d415029ec9d0bf",
+  "versione": "0.18.1",
+  "pacchetto": "pacchetti/ds-core-0.18.1.zip",
+  "dimensione": 217186,
+  "sha256": "a52e908d33178091ee8bd3623a154cce24508aa476068e0f8f6a71bf79921f66",
   "algoritmo": "ed25519",
-  "firma": "JRusNtQ74eekf3U4yc30nYRH4RNJWSsJnxVwtmRq18TUU2p44YXzZw5s0b96CBLmeEb6naxnqfBTj8DQuZJhAg==",
+  "firma": "6URx3vDCPFVZNadSEHxMH9FKn/Isqe8GPOw0Qw37rUM/Enb6JdvmyOiyqi/r8C+7qjeFra9uJGvVlIga8lx0BQ==",
   "chiave": "09beb996dd47e680",
-  "firmato": "2026-11-27T19:23:25Z"
+  "firmato": "2026-11-27T19:58:13Z"
 }
