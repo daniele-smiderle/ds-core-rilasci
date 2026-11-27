@@ -1,0 +1,12 @@
+{
+  "plugin": "ds-core",
+  "canale": "test",
+  "versione": "0.16.0",
+  "pacchetto": "pacchetti/ds-core-0.16.0.zip",
+  "dimensione": 145658,
+  "sha256": "2cedbbbc272b80be7ee1671446edbcfeb4ca29d26820e4d123ea1639fc9629ad",
+  "algoritmo": "ed25519",
+  "firma": "SQyiT81Pjfo/xJNrfquBOzOVcU5wHlH/QBWePvmZV14utcLRoD1RqnTJ0LmIJEb6I5+oAIcXDoMhWV1rZhrYBQ==",
+  "chiave": "09beb996dd47e680",
+  "firmato": "2026-11-27T16:53:41Z"
+}
